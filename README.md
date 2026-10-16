@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 <p align="center">
     <img src="docs/assets/images/kubernetes_icon.svg" alt="Kubernetes logo" width="200" />
     <img src="docs/assets/images/aws_load_balancer_icon.svg" alt="AWS Load Balancer logo" width="200" />
